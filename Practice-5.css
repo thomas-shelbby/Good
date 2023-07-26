@@ -31,7 +31,7 @@
 #Blog {
     background-repeat: no-repeat;
     height: 458px;
-    background-image: url(/Images/big-4.jpg);
+    background-image: url(Images/big-4.jpg);
     /* background-repeat: no-repeat;
     background-size: 100%; */
     background-size: cover;
@@ -42,7 +42,7 @@
 .Body-card {
     background-repeat: no-repeat;
     height: 217px !important;
-    background-image: url(/Images/static-15.jpg);
+    background-image: url(Images/static-15.jpg);
     /* background-repeat: no-repeat;
     background-size: 100%; */
     background-size: cover;
@@ -57,7 +57,7 @@
 .Body2-card {
     background-repeat: no-repeat;
     height: 217px !important;
-    background-image: url(/Images/static-9.jpg);
+    background-image: url(Images/static-9.jpg);
     /* background-repeat: no-repeat;
     background-size: 100%; */
     background-size: cover;
@@ -68,7 +68,7 @@
 .Body3-card {
     background-repeat: no-repeat;
     height: 217px !important;
-    background-image: url(/Images/anim-6.webp);
+    background-image: url(Images/anim-6.webp);
     /* background-repeat: no-repeat;
     background-size: 100%; */
     background-size: cover;
@@ -79,7 +79,7 @@
 .Body4-card {
     background-repeat: no-repeat;
     height: 217px !important;
-    background-image: url(/Images/static-9\ \(1\).jpg);
+    background-image: url(Images/static-9\ \(1\).jpg);
     /* background-repeat: no-repeat;
     background-size: 100%; */
     background-size: cover;
@@ -90,7 +90,7 @@
 .Body5-card {
     background-repeat: no-repeat;
     height: 217px !important;
-    background-image: url(/Images/static-10.jpg);
+    background-image: url(Images/static-10.jpg);
     /* background-repeat: no-repeat;
     background-size: 100%; */
     background-size: cover;
@@ -101,7 +101,7 @@
 .Body6-card {
     background-repeat: no-repeat;
     height: 217px !important;
-    background-image: url(/Images/anim-4.webp);
+    background-image: url(Images/anim-4.webp);
     /* background-repeat: no-repeat;
     background-size: 100%; */
     background-size: cover;
@@ -112,7 +112,7 @@
 .Body7-card {
     background-repeat: no-repeat;
     height: 217px !important;
-    background-image: url(/Images/static-8.jpg);
+    background-image: url(Images/static-8.jpg);
     /* background-repeat: no-repeat;
     background-size: 100%; */
     background-size: cover;
@@ -123,7 +123,7 @@
 .Body8-card {
     background-repeat: no-repeat;
     height: 217px !important;
-    background-image: url(/Images/anim-5.webp);
+    background-image: url(Images/anim-5.webp);
     /* background-repeat: no-repeat;
     background-size: 100%; */
     background-size: cover;
